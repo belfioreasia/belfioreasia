@@ -12,8 +12,8 @@ I'm a data scientist with a focus on machine learning & AI, with a strong pasion
 ---
 
 ⚙️ Main tools: `Python`, `PyTorch`, `pandas`, `matplotlib` <br>
-💻 Learning: `SQL`, `Tableau`<br>
-🔍 Interests: *Biotech* & *Genomics*, *Privacy*, anything I stare at for long enough :) <br>
+💻 Learning: `SQL`, `Typescript`, `React` <br>
+🔍 Interests: *Biotech*, *Genomics*, *Machine Learning & AI*, *Privacy*, *Cybersecurity*, anything I stare at for long enough :) <br>
 
 ---
 
